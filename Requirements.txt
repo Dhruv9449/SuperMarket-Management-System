@@ -1,0 +1,30 @@
+SuperMarket Management is an easy to use very powerful and helpful app for managing a supermarket.
+This all in one app offers following utilities-
+1. Product Management
+2. Employee Management
+3. Orders Management and log
+4. Bills storage and management
+5. Profit stats
+6. Billing System
+
+To run this app on your system you need to have the following requirements -
+
+Hardware requirements-
+1. Processors: Intel Atom® processor or Intel® Core™ i3 processor
+2. Disk space: 1 GB
+3. Operating systems: Windows* 7 or later, macOS, and Linux
+
+Software requirements-
+1. Python version  3+  with latest pip installer
+2. MySql version 4.1 +
+
+This app has its own modules but also uses certain inbuilt and existing libraries.
+These need to be installed in the system via the pip installer.
+
+REQUIRED LIBRARY FILES TO BE INSTALLED-
+1. mysql connector
+2. art
+3. os
+4. datetime
+5. tabulate
+6. shutil
